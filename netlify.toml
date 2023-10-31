@@ -4,5 +4,5 @@ functions = "netlify-functions"
 [[redirects]]
 
 from = "/"
-to = "/index.js"
+to = "/build/index.html"
 status = 200
