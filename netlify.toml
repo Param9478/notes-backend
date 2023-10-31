@@ -1,8 +1,0 @@
-[build] 
-functions = "netlify-functions"
-
-[[redirects]]
-
-from = "/"
-to = "/build/index.html"
-status = 200
